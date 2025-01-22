@@ -66,4 +66,3 @@ class SpotifyClient():
 
         json_result = json.loads(result.content)
         return json_result
-
